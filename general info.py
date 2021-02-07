@@ -1,0 +1,6 @@
+NAME = input('enter your name : ')
+AGE = int(input('enter your age:')
+SEX = input('enter your sex:')
+print("NAME:", name)
+print("AGE:", age)
+print("SEX:", sex)
